@@ -1,0 +1,11 @@
+============== inDRM key file (https://github.com/debiatan/inDRM) ==============
+game: Adventures in inDRMland
+================================================================================
+nick: debiatan
+location: Barcelona
+date: 2015/04/01
+notes: Enjoy!
+mac_salt: 1e6c40ea
+mac_hash: 76f0da12
+hash: c738b172
+signature: d38cc9a
